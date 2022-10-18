@@ -1,2 +1,2 @@
 # lang-dart
-Ringkasan bahsa pemrograman dart
+Ringkasan bahasa pemrograman dart
