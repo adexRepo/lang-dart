@@ -1,0 +1,59 @@
+// Author   : Adek Kristiyanto
+// Date     : 25/12/2021
+// Why      : i made this because i want to be front end developer
+
+/* 
+    Introduction
+    Dart Merupakan bahasa pemrograman yang baru dikenalkan pada tahun 2012.
+    Dart dibuat di google oleh Lars Bak Kristensen and Kasper Nielsen.
+    Dart merupakan bahasa pemrograman yang awalnya dibuat untuk front end,
+    Namun sebenarnya Dart juga memungkinkan digunakan untuk backend.
+    Dart merupakan bahasa pemrograman yang Open Source.
+    lengkapnya di :
+    https://dart.dev/
+ */
+
+/* 
+    Dart Sofware Development Kit
+    SDK ini mirip JDK nya java, namun SDK ini lebih kecil dan lebih ringan.
+    SDK ini digunakan untukmengkompilasi kode program Dart yang kita buat.
+    Download SDK :
+    https://dart.dev/get-dart/
+  */
+
+/* 
+    Install Cocolatey
+    Untuk menginstall Cocolatey, silahkan download dan install dari link berikut :
+    https://chocolatey.org/install.sh
+    Setelah itu, silahkan buka command prompt admin dan ketik :
+    choco install dart-sdk
+    Setelah itu, Dart akan terinstall.
+ */
+
+/* 
+    Text Editor
+    --VS code
+    --Android Studio
+    --InteleJ IDEA
+ */
+
+/* 
+    Execute File Dart
+    Salah satu execute yang akan banyak kita gunakan adalah menggunakan executable file dart di dalam folder bin
+    File Dart ini digunakan untuk membuat project, melakukan kompilasi, dan menjalankan program.
+    Menjalankan Unites juga pakai file ini.
+ */
+
+/* 
+    Membuat project
+    Gunakan Perintah command administrator :
+    dart create <nama_project>
+ */
+
+/* 
+    Keterangan Direktori di project dart_dasar (ini nama project saya)
+    1. dart tool --> gausah pusing diem aja
+    2. bin --> digunakan untuk menjalankan project
+    3. sisa nya hiraukan dulu aja
+
+ */
